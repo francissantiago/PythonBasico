@@ -1,10 +1,12 @@
-# PYTHON BÁSICO - 02 - Variáveis - Valores de variáveis
+# PYTHON BÁSICO - 06 - Variáveis - Números
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #----------------------------------------------------------------------------
 # Criado Por  : Francis Santiago
-# Data de Criação: 15/11/2022
-# version ='1.0.2'
+# Data de Criação: 23/11/2022
+# version ='1.0.6'
 # ---------------------------------------------------------------------------
-# Variável do tipo STRING
-nome_completo_1 = "Francis Santiago"
+paes = 5
+peixes = 2
+total_itens = paes / peixes
+print(total_itens)
