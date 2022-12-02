@@ -1,12 +1,9 @@
-# PYTHON BÁSICO - 10 - Variáveis - Operador de desigualdade
+# PYTHON BÁSICO - 01 - Variáveis - Nomes de variáveis
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #----------------------------------------------------------------------------
 # Criado Por  : Francis Santiago
-# Data de Criação: 28/11/2022
-# version ='1.1.0'
+# Data de Criação: 15/11/2022
+# version ='1.0.0'
 # ---------------------------------------------------------------------------
-valor = 2
-outroValor = 2
-resultado = valor != outroValor
-print(resultado)
+nome_completo_1
